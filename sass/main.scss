@@ -1,0 +1,15 @@
+$secondary: #CCD6A6;
+$info: #DFE8CC;
+$danger: #94B49F;
+
+// @import "../node_modules/bootstrap/scss/functions";
+// @import"../node_modules/bootstrap/scsss/variables";
+
+// $melvin-theme-colors: (
+//     "favorite1" : purple,
+//     "favorite2" : rgb(33, 167, 35)
+// );
+
+// $theme-colors: map-merge($melvin-theme-colors, $theme-colors);
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
